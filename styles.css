@@ -1,7 +1,7 @@
 :root {
     --branco-principal: #FFFFFF;
     --cinza-secundario: #c0c0c0;
-    --botao-azul: #167BF7;
+    --botao-azul: #dd16f7bb;
     --cor-de-fundo: #00030C;
     --fonte-principal: 'inter';
 }
@@ -104,6 +104,7 @@ body {
 .secundario__imagem {
   max-width: 400px;
   height: auto;
+  margin-right: 150px;
 }
 
 .dispositivos__lista {
